@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Liang, you can call me Leon!
+- 👌 I have experience in Python, Javascript, Java and C.
+- 🎆 I'm currently learning all the frontend stuff including Vue and Node JS.
 - 👀 I’m interested in badminton and violin playing
-- 🌱 I’m currently learning python, java
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: email: yaoliang2002@gmail.com
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liang, currently 3rd year CS student, you can call me Leon!
 - 👌 I'm familiar with Python, Java, Javascript. Also know some C and RISC-V assembly.
-- 🎆 I'm currently learning the MERN(Mongodb, Express, React, Node) stack for building a full stack project!
+- 🎆 I'm learning anything related to frontend.
 - 👀 I play badminton and violin.
 - 🌈 Looking for summer 2023 internship opportunity!
 - 📧 Contact: yaoliang2002@gmail.com.

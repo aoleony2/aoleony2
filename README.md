@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Liang, currently 3rd year CS student, you can call me Leon!
-- 👌 I'm familiar with Python, Java, Javascript. Also know some C and RISC-V assembly.
-- 🎆 I'm learning anything related to frontend.
+- 👋 Hi, I’m Liang Yao, A  CS undergrad student at the University of Toronto, you can call me Leon!
+- 👌 I'm interested in anything Machine Learning & frontend.
 - 👀 I play badminton and violin.
-- 🌈 Looking for summer 2023 internship opportunity!
-- 📧 Contact: yaoliang2002@gmail.com.
+- 🌈 Looking for internship opportunities for Summer 2025!
+- 📧 Reach me at **lian.yao@mail.utoronto.ca**!
 
-<!---
-aoleony2/aoleony2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>

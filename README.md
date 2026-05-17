@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Liang Yao, A  CS undergrad student at the University of Toronto, you can call me Leon!
-- 👌 I'm interested in anything Machine Learning & frontend.
-- 👀 I play badminton and violin.
-- 🌈 Looking for internship opportunities for Summer 2025!
-- 📧 Reach me at **lian.yao@mail.utoronto.ca**!
+- 👋 Hi, I’m Liang Yao, A  CS new grad at the University of Toronto, you can call me Leon!
+- 👌 I'm interested in anything Machine Learning & full stack.
+- 🌈 Looking for internship/full time opportunities for Summer 2026!
+- 📧 Reach me at **yaoliang2002@gmail.com**!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
